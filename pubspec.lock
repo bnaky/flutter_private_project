@@ -239,6 +239,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.3"
+  exporting_package:
+    dependency: "direct main"
+    description:
+      path: exporting_package
+      ref: main
+      resolved-ref: ce62d07e2763e0d78783949143fa9b174f9bccdd
+      url: "https://github.com/bnaky/flutter_private_module.git"
+    source: git
+    version: "0.0.1"
   fake_async:
     dependency: transitive
     description:
